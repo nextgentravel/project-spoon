@@ -1,6 +1,6 @@
-# Project Spoon
+# Self Service Booking
 
-The site is hosted using Github Pages at: https://nextgentravel.github.io/project-spoon/
+The site is hosted using Github Pages at: https://nextgentravel.github.io/self-service-booking/
 
 ## Acknowledgments
 
